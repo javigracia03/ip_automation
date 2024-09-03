@@ -99,4 +99,4 @@ Contributions are welcome! Feel free to submit issues or pull requests to improv
 
 ## Contact
 
-For any inquiries or suggestions, please contact [aviergracia2003@gmail.com](mailto:javiergracia2003@gmail.com).
+For any inquiries or suggestions, please contact [javiergracia2003@gmail.com](mailto:javiergracia2003@gmail.com).
